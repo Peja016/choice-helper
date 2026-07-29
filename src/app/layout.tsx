@@ -15,8 +15,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Next Chakra Starter",
-  description: "Starter kit with Next.js and Chakra UI custom theme variants.",
+  title: "Choice Helper",
+  description:
+    "If you can't decide what to choose, this app can help you make a decision.",
 };
 
 export default function RootLayout({
